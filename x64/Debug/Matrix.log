@@ -1,0 +1,12 @@
+﻿  Main.cpp
+  SqureMat.cpp
+C:\Users\huhcb\source\repos\Matrix\Matrix\SqureMat.cpp(12,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\huhcb\source\repos\Matrix\Matrix\SqureMat.cpp(269,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\huhcb\source\repos\Matrix\Matrix\SqureMat.cpp(379,1): warning C4172: returning address of local variable or temporary : ans
+C:\Users\huhcb\source\repos\Matrix\Matrix\SqureMat.cpp(385,1): warning C4172: returning address of local variable or temporary : ans
+C:\Users\huhcb\source\repos\Matrix\Matrix\SqureMat.cpp(391,1): warning C4172: returning address of local variable or temporary : ans
+C:\Users\huhcb\source\repos\Matrix\Matrix\SqureMat.cpp(403,1): warning C4172: returning address of local variable or temporary : ans
+C:\Users\huhcb\source\repos\Matrix\Matrix\SqureMat.cpp(397,1): warning C4172: returning address of local variable or temporary : ans
+C:\Users\huhcb\source\repos\Matrix\Matrix\SqureMat.cpp(409,1): warning C4172: returning address of local variable or temporary : ans
+  Matrix.vcxproj -> C:\Users\huhcb\source\repos\Matrix\x64\Debug\Matrix.exe
